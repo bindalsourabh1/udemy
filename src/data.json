@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "title": "Introduction to Programming",
+      "username": "JohnDoe123",
+      "vote": 4.5,
+      "students": 1500,
+      "price": 49.99,
+      "oldPrice": 79.99
+    },
+    {
+      "id": 2,
+      "title": "Web Development 101",
+      "username": "JaneSmith456",
+      "vote": 4.8,
+      "students": 2000,
+      "price": 69.99,
+      "oldPrice": 99.99
+    },
+    {
+      "id": 3,
+      "title": "Python for Beginners",
+      "username": "MikeJohnson789",
+      "vote": 4.2,
+      "students": 1200,
+      "price": 54.99,
+      "oldPrice": 89.99
+    },
+    {
+      "id": 4,
+      "title": "Data Science Fundamentals",
+      "username": "EmilyBrown234",
+      "vote": 4.9,
+      "students": 1800,
+      "price": 79.99,
+      "oldPrice": 119.99
+    },
+    {
+      "id": 5,
+      "title": "Machine Learning Basics",
+      "username": "AlexWilson567",
+      "vote": 4.7,
+      "students": 2500,
+      "price": 89.99,
+      "oldPrice": 129.99
+    }
+]
+  
